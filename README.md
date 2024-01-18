@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<!-- <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" /> -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=14E4AE&center=true&multiline=true&random=false&width=435&height=80&lines=Hi!+I'm+Rodya%2C+a+web+developer.;+%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F" width="70%" />
 <br><br>
 <!-- <pre>
