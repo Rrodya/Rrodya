@@ -34,11 +34,11 @@
 <br><br>
 <br><br>
 <h1 align="right">🗒 Knowledge</h1>    
-<div style="display: flex; justify-content: space-between; gap: 20px">
+<div c>
     <div align="center">
-        <img src="https://user-images.githubusercontent.com/78994881/228387237-3d1de50f-8a4b-4e0d-9c79-0a65de6de6ba.gif" align="left"/>
+        <img src="https://user-images.githubusercontent.com/78994881/228387237-3d1de50f-8a4b-4e0d-9c79-0a65de6de6ba.gif" width="40%" align="left"/>
     </div>
-    <p style="flex: 1 0 50%">Experienced Frontend developer with experience working on various projects. I specialize on developing modern and responsive user interfaces with using TypeScript, Vue and Vuex. I have a deep understanding of best practices development and performance optimization. Ready to take on new challenges and make contribution to the success of your project</p>    
+    <p width="40%" align="right">Experienced Frontend developer with experience working on various projects. I specialize on developing modern and responsive user interfaces with using TypeScript, Vue and Vuex. I have a deep understanding of best practices development and performance optimization. Ready to take on new challenges and make contribution to the success of your project</p>    
 </div>
 <br>
 <br><br>
