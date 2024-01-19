@@ -36,11 +36,11 @@
 <h1 align="right">🗒 Knowledge</h1>    
 <div>
     <div align="center">
-        <img src="./assets/Sakura_Nene_CPP_Covered.jpg" style="margin-right: 30px" width="20%" align="left"/>
+        <img src="https://user-images.githubusercontent.com/78994881/228387237-3d1de50f-8a4b-4e0d-9c79-0a65de6de6ba.gif" style="margin-right: 30px" width="40%" align="left"/>
     </div>
     <p width="60%" style="padding-left: 20px">Experienced Frontend developer with experience working on various projects. I specialize on developing modern and responsive user interfaces with using TypeScript, Vue and Vuex. I have a deep understanding of best practices development and performance optimization. Ready to take on new challenges and make contribution to the success of your project</p>    
 </div>
-<br><br>
+<br>
 <br><br>
 
 <h1>📒 Skills</h1> 
@@ -71,6 +71,8 @@
 
 </div>
 <br><br>
-<h1 align="center">❤️ Thank you for raeading
-<img src="https://i.pinimg.com/originals/23/6f/d9/236fd97aa26b093cb1dcb5ed35879ce5.gif" align="center"/></h1>    
+<div align="center">
+<h1 align="center"></h1>    <p>❤️ Thank you for raeading</p>
+<img src="https://i.pinimg.com/originals/23/6f/d9/236fd97aa26b093cb1dcb5ed35879ce5.gif" align="center"/>
+</div>
 
