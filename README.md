@@ -28,7 +28,7 @@
         <b>Hobbys:</b> Web Development, Table tennis
         </li>
         <li>
-        <b>Working @:</b> Tages</li>
+        <b>Working @:</b> NPK Kriptonit</li>
     </div>
 </div>
 <br><br>
