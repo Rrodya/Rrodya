@@ -70,9 +70,5 @@
 
 
 </div>
-<br><br>
-<div align="center">
-<h1 align="center"></h1>    <p>❤️ Thank you for raeading</p>
-<img src="https://i.pinimg.com/originals/23/6f/d9/236fd97aa26b093cb1dcb5ed35879ce5.gif" align="center"/>
-</div>
+
 
