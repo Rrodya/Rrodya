@@ -17,9 +17,9 @@
         <li>
         <b>Name:</b> Rodion</li>
         <li>
-        <b>Age:</b> 21</li>
+        <b>Age:</b> 22</li>
         <li>
-        <b>Loves:</b> anime, valorant
+        <b>Loves:</b> anime
         </li>
         <li>
         <b>Gender:</b> Male 
